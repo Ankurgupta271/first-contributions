@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Ankur Gupta](https://github.com/Ankurgupta271)
 - [Anugrah Rachman](https://github.com/kidomega-byte/)
 - [Laksh Gupta](https://github.com/cyborglaksh)
 - [Darshan Patel](https://github.com/darshan260802)
